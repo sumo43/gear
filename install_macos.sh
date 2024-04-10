@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the download URL and destination directory
-download_url="https://github.com/sumo43/gear/releases/download/0.1.3macos/gearcli"
+download_url="https://github.com/sumo43/gear/releases/download/0.1.3mac/gearcli"
 destination_dir="/usr/local/bin"
 # Check if /usr/local/bin directory exists
 if [ ! -d "/usr/local/bin" ]; then
